@@ -1,4 +1,6 @@
-# Blog![Daily Journal - Personal - Microsoft​ Edge 06-May-22 6_37_11 PM](https://user-images.githubusercontent.com/76143659/167137688-fabace0b-11c2-45ef-b09b-c2aa2f6f3789.png)
+# Blog
+## Home Page
+![Daily Journal - Personal - Microsoft​ Edge 06-May-22 6_37_11 PM](https://user-images.githubusercontent.com/76143659/167137688-fabace0b-11c2-45ef-b09b-c2aa2f6f3789.png)
 
 ## Compose page for write a new Article
 ![Daily Journal - Personal - Microsoft​ Edge 06-May-22 6_37_57 PM](https://user-images.githubusercontent.com/76143659/167137700-a4e5094d-a456-466f-b605-11d77986d9f8.png)
